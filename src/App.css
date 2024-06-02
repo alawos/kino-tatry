@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.App-Logo {
+    max-height: 180px;
+    margin-top: -4px;
+    margin-bottom: -6px;
+}
+
+.App-Content {
+    padding: 8px;
+    width: 100%;
+}

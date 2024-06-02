@@ -1,0 +1,19 @@
+:root {
+    --bg-color: #1D0002;
+    --neutral-color: #F1F8EE;
+    --primary-color: #BF2D0D;
+    --primary-hover: #AD0801;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--neutral-color);
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
